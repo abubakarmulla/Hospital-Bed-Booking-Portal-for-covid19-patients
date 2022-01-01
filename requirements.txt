@@ -1,0 +1,5 @@
+flask
+mysqlclient
+Flask-SQLAlchemy
+Flask-Login
+Flask-Mail
